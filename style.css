@@ -1,0 +1,27 @@
+p{
+    color:yellow; 
+}
+h1{
+    color:aqua;
+}
+h3{
+    color:crimson;
+    background-color: dimgrey;
+}
+#encabezado-cuatro{
+    color:green;
+}
+.color-red{
+    color:red;
+}
+.color-blue{
+    color:blue
+}
+body{
+    background-image: url(https://images5.alphacoders.com/123/1232265.jpg);
+    background-size: cover; 
+}
+.color-white{
+    color:black;
+    background-color: white;
+}
